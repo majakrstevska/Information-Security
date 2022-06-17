@@ -1,0 +1,3 @@
+test text file for ssl communication in java
+Bla Bla Bla
+tretata linija
